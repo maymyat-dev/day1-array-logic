@@ -1,4 +1,4 @@
-import React from 'react'
+
 import LogicPractice from './components/LogicPractice'
 
 function App() {
